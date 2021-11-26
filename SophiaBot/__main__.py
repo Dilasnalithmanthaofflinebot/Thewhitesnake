@@ -74,12 +74,12 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 
-PM_START_TEXT = """Hey there 👋! My name is *Sophia*.\n\nI can help manage your groups with useful features, feel free to add me to your groups!."""
+PM_START_TEXT = """Hey there 👋! My name is *Whitesnake*.\n\nI can help manage your groups with useful features, feel free to add me to your groups!."""
 
 STICKERS = (
-      "CAACAgUAAx0CTpRfGwACF41hMfagTfWdHNFici1VtOCQVVNYmgACgh8AAsZRxhU6tKJa_ySnnCAE",
-      "CAACAgUAAx0CTpRfGwACF5phMfi5vgKwQFg6KuzHiEc79QFT0QACCR4AAsZRxhVu32VqEb3_1SAE",
-      "CAACAgUAAx0CTpRfGwACGIBhQcGJDHuuXsU5el3I86SEx3nTpgAC2R8AAsZRxhUpEe6EcVukQCAE",
+      "CAACAgUAAx0CaGOBNQACHJhhoGj49Kgh545EcWVU_C7CsHqoMAACaQMAAqCyGFT2oPcPueIJ4iIE",
+      " CAACAgUAAx0CaGOBNQACHJ9hoGk2XTC-fA3YIB8Bg-h4-I_RZQACDQQAAmOpEVSMgUn-Pmo_5yIE",
+      "CAACAgUAAx0CaGOBNQACHKZhoGm6aHvdOBcrLdJRoeKMuP8MRwACcgMAApt8EVSui7Rf2hsrpCIE",
 )    
 
 
