@@ -94,13 +94,15 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text=" Sophia News 🙋‍♀️ ", url=f"https://t.me/SophiaUpdates"),
-        InlineKeyboardButton(text=" Support Group 💬 ", url=f"https://t.me/SophiaSupport_Official"),
+        InlineKeyboardButton(text=" whitesnake News 🙋‍♀️ ", url=f"https://t.me/Whitesnakechannel"),
+        InlineKeyboardButton(text=" Support Group 💬 ", url=f"https://t.me/Whitesnakeofficical"),
     ],
     [
-        InlineKeyboardButton(text="➕ Add Sophia to your Group ➕", url="t.me/SophiaSLBot?startgroup=true"),   
+        InlineKeyboardButton(text="➕ whitesnake Add to your Group ➕", url="http://t.me/The_whitesnake_bot?startgroup=true"),   
     ],
-]
+    [
+] 
+
 
 HELP_STRINGS = """
 ✘✘✘ 𝗛𝗲𝗹𝗽𝗳𝘂𝗹 𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀 ✘✘✘
